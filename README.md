@@ -12,10 +12,10 @@
 |-------|---------|
 | **Title** | Sábanas de pura pasión |
 | **Written By** | [Abu Sayed](https://abusayed.com.bd/) |
-| **Written On** | June 09, 2026 |
+| **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
+| **Get License** | [Official Music Licensing for Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,10 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> Sábanas de pura pasión, nena, tú y yo
-> En esta habitación, el mundo se apagó
-> Tu cuerpo es el imán, yo pierdo el control
-> Esta es la noche que me robaste el corazón
+> Sábanas de pura pasión
+> Underneath the moonlight we lose control
+> Your body's the rhythm, I'm losing my soul
+> Sábanas de pura pasión
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
