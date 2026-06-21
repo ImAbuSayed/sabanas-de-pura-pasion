@@ -15,7 +15,7 @@
 | **Written On** | June 21, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Official Music Licensing for Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
+| **Get License** | [Get License For Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -115,8 +115,8 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 | Verification Detail | Information |
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
-| **Version** | `v1` |
-| **SHA-256 Hash** | `80425187b9c7514cef4c10739fcb06a447391e1ffad5b19ba4a0300f5cc41da9` |
+| **Version** | `v2` |
+| **SHA-256 Hash** | `95e4cb14ddd9e8a7453cd33788af0fd860bf1331ac946e94139b743c51753a97` |
 | **Timestamp** | June 22, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

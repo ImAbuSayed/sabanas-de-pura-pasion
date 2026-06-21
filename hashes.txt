@@ -5,6 +5,7 @@ This log tracks the cryptographic history and versioning for the song **Sábanas
 | Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
 |:----------|:--------|:-------------------|:-----------------|:------------|
 | 2026-06-22T04:22:38.547294 | `v1` | `80425187b9c7514cef4c10739fcb06a447391e1ffad5b19ba4a0300f5cc41da9` | `e8c79934bc414b8b74c061618e40ca19d07d3c94bbd4e9c229d6eb985d3e9b76` | `2026-06-22_sabanas-de-pura-pasion-v1.txt` |
+| 2026-06-22T04:26:44.215545 | `v2` | `95e4cb14ddd9e8a7453cd33788af0fd860bf1331ac946e94139b743c51753a97` | `73a70a2598b5249f0d8340774141a8f499c082d5ab789694d8eebcbed4a4280e` | `2026-06-22_sabanas-de-pura-pasion-v2.txt` |
 
 ---
 *Written and Curated by Abu Sayed*
