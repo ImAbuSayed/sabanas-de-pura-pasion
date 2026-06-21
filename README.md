@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
+| **Get License** | [Get License For Sábanas de pura pasión](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/sabanas-de-pura-pasion/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Sábanas de pura pasión, nena, tú y yo
+> En esta habitación, el mundo se apagó
+> Tu cuerpo es el imán, yo pierdo el control
+> Esta es la noche que me robaste el corazón
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
